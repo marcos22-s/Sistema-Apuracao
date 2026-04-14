@@ -1,0 +1,11 @@
+E:\ETEC\ETEC 2-MODULO\VAL-A.S\Unar\Unar\bin\Debug\Unar.exe.config
+E:\ETEC\ETEC 2-MODULO\VAL-A.S\Unar\Unar\bin\Debug\Unar.exe
+E:\ETEC\ETEC 2-MODULO\VAL-A.S\Unar\Unar\bin\Debug\Unar.pdb
+E:\ETEC\ETEC 2-MODULO\VAL-A.S\Unar\Unar\obj\Debug\Unar.csprojResolveAssemblyReference.cache
+E:\ETEC\ETEC 2-MODULO\VAL-A.S\Unar\Unar\obj\Debug\Unar.Form1.resources
+E:\ETEC\ETEC 2-MODULO\VAL-A.S\Unar\Unar\obj\Debug\Unar.Properties.Resources.resources
+E:\ETEC\ETEC 2-MODULO\VAL-A.S\Unar\Unar\obj\Debug\Unar.votacao.resources
+E:\ETEC\ETEC 2-MODULO\VAL-A.S\Unar\Unar\obj\Debug\Unar.csproj.GenerateResource.Cache
+E:\ETEC\ETEC 2-MODULO\VAL-A.S\Unar\Unar\obj\Debug\Unar.exe
+E:\ETEC\ETEC 2-MODULO\VAL-A.S\Unar\Unar\obj\Debug\Unar.pdb
+E:\ETEC\ETEC 2-MODULO\VAL-A.S\Unar\Unar\obj\Debug\Unar.apuracao.resources
